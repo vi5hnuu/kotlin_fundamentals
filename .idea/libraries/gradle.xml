@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="gradle">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../corutiness/gradle" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../corutiness/gradle" recursive="false" />
+  </library>
+</component>
